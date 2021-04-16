@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-api/itmayiedu-shop-member-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-message" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-pc-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itmayiedu-shop-web" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
